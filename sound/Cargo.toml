@@ -1,0 +1,7 @@
+[package]
+name = "watercolor-sound"
+version = "0.0.0"
+edition = "2024"
+
+[dependencies]
+watercolor-temporal = { version = "0.0.0", path = "../temporal" }

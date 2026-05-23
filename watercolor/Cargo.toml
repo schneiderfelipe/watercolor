@@ -1,0 +1,11 @@
+[package]
+name = "watercolor"
+version = "0.0.0"
+edition = "2024"
+
+[dependencies]
+watercolor-temporal = { version = "0.0.0", path = "../temporal" }
+watercolor-frame = { version = "0.0.0", path = "../frame" }
+watercolor-sound = { version = "0.0.0", path = "../sound" }
+watercolor-silent-film = { version = "0.0.0", path = "../silent-film" }
+watercolor-film = { version = "0.0.0", path = "../film" }

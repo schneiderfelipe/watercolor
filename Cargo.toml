@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "temporal",
+    "frame",
+    "sound",
+    "silent-film",
+    "film",
+    "watercolor",
+]
+resolver = "3"
